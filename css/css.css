@@ -43,7 +43,7 @@ body{
 }
     
 .barrainicio{
-    width: 60rem;
+    width: 54rem;
     height: 4rem;
     background-color: var(--color1);
     margin: auto;
@@ -70,7 +70,7 @@ body{
     display: inline;
     list-style: none;
     text-align: center;
-    padding: 3rem;
+    padding: 2rem;
     border-bottom: 0.2;
     transition: 0.4s;
     color: var(--color2);
@@ -85,7 +85,7 @@ body{
 
 .nav2{
     margin-top: -1.2rem;
-    margin-left: 40rem;
+    margin-left: 33rem;
 }
 
 .imgs{
@@ -93,7 +93,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 49rem;
+    margin-left: 42rem;
     margin-top: -2rem;
 }
 .imgs img{
@@ -147,7 +147,7 @@ body{
     
 }
 .secciones img{
-    width: 25rem;
+    width: 20rem;
 }
     
 .continuacion{
