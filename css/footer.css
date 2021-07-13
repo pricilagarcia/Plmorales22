@@ -63,13 +63,4 @@
         transition: 0.4s;
         color: var(--color5);
     }
-                
-    @media only screen and (max-width: 1440px){
-        body{
-            font-size: 10px;
-                }
-                .logo{
-             margin-left: 23em;
-                }
-        
-                }
+          

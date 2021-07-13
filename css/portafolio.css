@@ -1,4 +1,24 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: var(--color2);
+    
+}
+:root{
+    --color1: #fff;
+    --color2: black;
+    --color3: rgb(108, 108, 226);
+    --color4: #727880;
+    --color5: #5645b8;
+    --color6: rgb(29, 58, 66);
+    --color7: #3c5858;
+    }
+
+.body{
+    font-size: 10px;
+}  
 .banner{
     background-image: url(../img/banner.jpg);
     width: 100%;
@@ -19,9 +39,10 @@
     
  .intro{
     background-color: var(--color6);
-    width: 20em;
-    height: 50em;
-    padding: 4em;
+    width: 17rem;
+    height: 40rem;
+    padding: 3rem;
+    float: right;
 }
     
 .foto{
@@ -105,15 +126,3 @@
     color: var(--color1);
     
 }
-
-@media only screen and (max-width: 1440px){
-body{
-    font-size: 10px;
-}
-.leer{
-        margin-top: -2em;  
-}
-.boton{
-    margin: 2.5em 0em 0em 5.8em;
-}
-    }
