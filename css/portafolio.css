@@ -42,7 +42,11 @@
     width: 17rem;
     height: 40rem;
     padding: 3rem;
+    display: flex;
+    flex-direction: column;
     float: right;
+    margin-top: 10rem;
+    margin-right: 2rem;
 }
     
 .foto{
@@ -73,32 +77,29 @@
     padding: 0.8em;
     color: var(--color1);
     background-color: var(--color2);
-    float: left;
     margin-top: -1em;
     
-    }
+}
 .container{
-    background-color: transparent;
-    width: 100%;
     height: auto;
+    width: 30rem;
     padding: 5em 16em 0em 10em;
-    box-sizing: border-box;
-    float: left;
+    display: flex;
+    flex-direction: column;
+
 }
 .uno{
+    margin-left: -2rem;
     width: 60em;
     height: 23.3em;
     padding: 3em;
-    box-sizing: border-box;
-    float: left;
-    background-color: var(--color1);
+    box-sizing: border-box
     
 }
 .trabajos{
     width: 27em;
     height: auto;
     float: left;
-    margin-left: 1em;
     padding-right: 2em;
 }
 

@@ -9,24 +9,25 @@ footer{
 .conta{
     font-size: 2em;
     margin-top: 1em;
-    float: left;
+    
     padding-left: 3em;
 }
-.red{
-    width: 3em;
-    height: auto;
-    margin: 1em;
-    float: left;
+
+.hol{
+    width: 15rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 15rem;
+    margin-top: -2.6rem;
 }
-.cor{
-    width: 3.5em;
-    height: auto;
-    margin: 1.2em 0em 0em 1em;
-    float: left;
+.hol img{
+    width: 4rem;
 }
+
 .logo{
     width: 15em;
-    margin-left: 20em;
+    margin-left: 50%;
     float: left;
 }
 .frase2{
