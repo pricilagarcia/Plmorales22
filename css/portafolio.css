@@ -44,9 +44,9 @@
     padding: 3rem;
     display: flex;
     flex-direction: column;
-    
+    float: right;
     margin-top: 10rem;
-    
+    margin-right: 2rem;
 }
     
 .foto{
