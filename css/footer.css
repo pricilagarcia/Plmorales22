@@ -1,20 +1,20 @@
     
 footer{
     width: 100%;
-    height: 30em;
-    padding: 2em 0em 1em 0em;
+    height: 30auto;
+    padding: 2rem 0rem 1rem 0rem;
     box-sizing: border-box;
     background-color: var(--color1);
 }
 .conta{
-    font-size: 2em;
-    margin-top: 1em;
+    font-size: 1.5rem;
+    margin-top: 1rem;
     
-    padding-left: 3em;
+    padding-left: 3rem;
 }
 
 .hol{
-    width: 15rem;
+    width: 14rem;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -22,35 +22,34 @@ footer{
     margin-top: -2.6rem;
 }
 .hol img{
-    width: 4rem;
+    width: 3.3rem;
 }
 
 .logo{
-    width: 15em;
-    margin-left: 50%;
+    width: 12rem;
+    margin-left: 45%;
     float: left;
 }
 .frase2{
-    font-size: 2.5em;
+    font-size: 2rem;
     color: var(--color);
     text-align: right;
     font-family: 'Londrina Solid', cursive;
 }
-    .enlaces{
-        font-size: 2em;
+.enlaces{
+        font-size: 1.4rem;
         font-family: 'Nunito', sans-serif;
-        margin-top: 6em;
+        margin-top: 6rem;
         text-align: center;
-    }
-    
-    .enlaces li{
+} 
+.enlaces li{
         display: inline;
         list-style: none;
         text-align: center;
-        padding: 3em;
-    }
-    .enlaces li:hover{
+        padding: 3rem;
+}
+.enlaces li:hover{
         transition: 0.4s;
         color: var(--color5);
-    }
+}
           
