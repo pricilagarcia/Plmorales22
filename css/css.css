@@ -12,14 +12,17 @@
     --color3: rgb(108, 108, 226);
     --color4: #727880;
     --color5: #5645b8;
+    --color6: rgb(29, 58, 66);
+    --color7: #3c5858;
 }
 
 body{
     font-size: 62.5%;
+
 }
 
 .fondo{
-    background-image: url(../img/fondo2.jpeg);
+    background-image: url(../img/fondos2.png);
     width: 100%;
     height: 40rem;
     float: left;
@@ -89,7 +92,7 @@ body{
 }
 
 .imgs{
-    width: 10rem;
+    width: 12rem;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -98,10 +101,7 @@ body{
 }
 .imgs img{
     width: 3rem;
-    
-}
-    
-    
+} 
     /*Empieza la info*/
    
 .contenedor{
@@ -116,7 +116,6 @@ body{
 }
     
 .info{
-    border-style: double;
     width: 30rem;
     height: 20rem;
     border: 0.1rem solid var(--color2);  

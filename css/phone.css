@@ -1,0 +1,119 @@
+.fondo{
+    background-image: url(../img/fondoo.jpg);
+}
+.barrainicio{
+    width: 97%;
+    height: 2rem;
+}
+.titulo{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.nav{
+    margin-top: -1rem;
+    font-size: 0.5rem;
+}
+.nav li{
+    padding: 1rem;
+}
+.nav2{
+    margin-left: 14rem;
+    margin-top: -0.8rem;
+}
+.imgs{
+    width: 5.2rem;
+    margin-top: -1.1rem;
+    margin-left: 17.2rem;
+}
+.imgs img{
+    width: 1.4rem;
+}
+.contenedor{
+    height: 20rem;
+}
+.contenedor img{
+    width: 9.5rem;
+}
+.info{
+    width: 13rem;
+    height: 13.5rem;
+}
+.info h1{
+    font-size: 1rem;
+}
+.info p{
+    font-size: 0.8rem;
+}
+.paginas{
+    height: 25rem;
+}
+.secciones img{
+    width: 8rem;
+    padding-top: 3rem;
+}
+.btn{
+    font-size: 0.8rem;
+    width: 15rem;
+    height: 4rem;
+}
+/*FOOTER*/
+footer{
+    height: 15rem;
+}
+.conta{
+    font-size: 1rem;
+    padding-left: 1rem;
+}
+.hol{
+    width: 8rem;
+    margin-left: 9rem;
+    margin-top: -2rem;
+}
+.hol img{
+    width: 2rem;
+}
+.logo{
+    width: 8rem;
+    margin-left: 0.3rem;
+}
+.frase2{
+    margin-top: 1.3rem;
+    font-size: 1.2rem;
+}
+.enlaces{
+    width: 100%;
+    font-size: 1rem;
+}
+/*PORTAFOLIO*/
+.titu{
+    color: var(--color1);
+    font-size: 3rem;
+}
+.intro{
+    margin-left: 3rem;
+    margin-top: 3rem;
+    float: left;
+}
+.container{
+    width: 100%;
+}
+.uno{
+    width: 20rem;
+}
+.nombre{
+    text-align: justify;
+    width: 20rem;
+}
+.descripcion{
+    text-align: justify;
+    width: 12rem;
+    margin-left: 10rem;
+    font-size: 1rem;
+}
+.trabajos{
+    width: 10rem;
+    margin-top: 2rem;
+}
+.boton{
+    margin-left: 12rem;  
+}
